@@ -134,7 +134,7 @@ ul.topnav li.dropdownIcon {
 /* ############# Custom Styles ########## */
 
 #section1-background {
-    background-image: url(/images/city3.gif);
+    background-image: url(Images/city3.gif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -159,7 +159,7 @@ ul.topnav li.dropdownIcon {
 }
 
 #projects-background{
-    background-image: url(/images/galaxy.gif);
+    background-image: url(Images/galaxy.gif);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -170,7 +170,7 @@ hr.sep {
     background-position-x: center;
     border: 0;
     height: 25px;
-    background-image: url(/images/pacman.png);
+    background-image: url(Images/pacman.png);
     background-repeat: repeat;
 }
 
