@@ -209,7 +209,11 @@ div.icon {
 }
 
 .title {
-    animation: fadeIn ease 2s;
+    animation: fadeIn ease 4s;
+    -webkit-animation: fadeIn ease 4s;
+    -moz-animation: fadeIn ease 4s;
+    -o-animation: fadeIn ease 4s;
+    -ms-animation: fadeIn ease 4s;
 }
 
 @keyframes fadeIn {
@@ -230,7 +234,11 @@ h2.title {
 }
 
 .large {
-    animation: fadeIn ease 2s;
+    animation: fadeIn ease 4s;
+    -webkit-animation: fadeIn ease 4s;
+    -moz-animation: fadeIn ease 4s;
+    -o-animation: fadeIn ease 4s;
+    -ms-animation: fadeIn ease 4s;
 }
 
 
